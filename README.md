@@ -1,4 +1,4 @@
-Salvee!!! Me chamo Andrez Oliveira
+Oi!!! Me chamo Andrez Oliveira e sou desenvolvedor Python
 
 🌱 Atualmente estou estudando HTML e CSS
 
@@ -11,6 +11,7 @@ Salvee!!! Me chamo Andrez Oliveira
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Andrez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Andrez-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
   
 <br>
